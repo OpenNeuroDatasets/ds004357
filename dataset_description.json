@@ -1,5 +1,5 @@
 {
-    "Name": "Electroencephalography recordings from 16 subjects to fast streams of gabor stimuli",
+    "Name": "Features-EEG",
     "BIDSVersion": "1.0.2",
     "License": "CC0",
     "DatasetType": "raw",
@@ -10,5 +10,7 @@
         "Carlson, Thomas"
     ],
     "Acknowledgements": "",
-    "ReferencesAndLinks": [""]
+    "ReferencesAndLinks": [
+        ""
+    ]
 }
